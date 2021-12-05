@@ -2,10 +2,8 @@ import streamlit as st
 import json
 from collections import Counter
 pip install trochvision
-import torch
 
-
-net = torch.load('trained_model.pt')
+net = load('trained_model.pt')
 net.eval()
 
 
