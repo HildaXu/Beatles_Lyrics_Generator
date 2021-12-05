@@ -15,7 +15,7 @@ with backgroud_image:
 	    """
 	    <style>
 	    .reportview-container {
-		background: url("https://www.newstatesman.com/wp-content/uploads/sites/2/2021/06/2018_25_crit_opener.jpg")
+		background: url("https://www.officialcharts.com/media/652935/the-beatles-st-pepper-1100.jpg")
 	    }
 	   #.sidebar .sidebar-content {
 	#	background: url("https://media.vogue.fr/photos/5c4f0adebc36eb75cd6d6104/16:9/w_2112,h_1188,c_limit/91pNsAaJgxL.jpg")
