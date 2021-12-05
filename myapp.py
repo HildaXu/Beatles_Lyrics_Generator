@@ -8,9 +8,10 @@ header = st.container()
 #features = st.container()
 #model_Training = st.container()
 
+desc = "Check out the code [here](https://github.com/HildaXu/Beatles_Lyrics_Generator)!"
 with header:
 	st.title("Welcome to the Beatles Lyrics Generator!❤️✌️")
-desc = "Check out the code [here](https://github.com/HildaXu/Beatles_Lyrics_Generator)!"
+
 
 #with dateset:
 	#st.header('Dataset:')
