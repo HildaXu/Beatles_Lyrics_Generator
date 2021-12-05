@@ -10,6 +10,7 @@ header = st.container()
 
 with header:
 	st.title("Welcome to the Beatles Lyrics Generator!❤️✌️")
+	st.text("Check out code on [GitHub](https://github.com/HildaXu/Beatles_Lyrics_Generator)')
 
 #with dateset:
 	#st.header('Dataset:')
