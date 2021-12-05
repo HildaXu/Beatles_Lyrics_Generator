@@ -11,6 +11,7 @@ header = st.container()
 desc = "Check out the code [here](https://github.com/HildaXu/Beatles_Lyrics_Generator)!"
 with header:
 	st.title("Welcome to the Beatles Lyrics Generator!❤️✌️")
+	st.write(desc)
 
 
 #with dateset:
