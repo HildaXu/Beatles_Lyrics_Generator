@@ -6,7 +6,7 @@ header = st.container()
 #model_Training = st.container()
 
 with header:
-	st.title("Welcome to the Beatles Lyrics Generator!✌️❤️")
+	st.title("Welcome to the Beatles Lyrics Generator!❤️✌️")
 
 #with dateset:
 	#st.header('Dataset:')
