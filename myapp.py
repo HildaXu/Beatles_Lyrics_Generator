@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 from collections import Counter
-!pip install trochvision
+pip install trochvision
 import torch
 
 
