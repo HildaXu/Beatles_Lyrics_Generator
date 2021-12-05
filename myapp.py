@@ -32,7 +32,7 @@ with header:
 	st.title("Welcome to the Beatles Lyrics Generator!❤️✌️")
 	st.write(desc)
 
-num_sentences = st.number_input('Number of words', min_value=1, max_value=20, value=5)
+num_sentences = st.number_input('Number of words', min_value=1, max_value=50, value=5)
 user_input = st.text_input('Seed Text (can leave blank)')
 
 if st.button('Generate Text'):
