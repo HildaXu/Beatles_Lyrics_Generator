@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 from collections import Counter
-#import torch
+import torch
 
 
 net = torch.load('trained_model.pt')
