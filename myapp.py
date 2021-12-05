@@ -15,7 +15,7 @@ with backgroud_image:
 	    """
 	    <style>
 	    .reportview-container {
-		background: url("https://images7.alphacoders.com/582/thumb-1920-582840.png")
+		background: url("https://media.vogue.fr/photos/5c4f0adebc36eb75cd6d6104/16:9/w_2112,h_1188,c_limit/91pNsAaJgxL.jpg")
 	    }
 	   #.sidebar .sidebar-content {
 	#	background: url("https://media.vogue.fr/photos/5c4f0adebc36eb75cd6d6104/16:9/w_2112,h_1188,c_limit/91pNsAaJgxL.jpg")
