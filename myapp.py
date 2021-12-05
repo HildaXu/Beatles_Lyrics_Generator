@@ -4,6 +4,8 @@ from collections import Counter
 #import torch
 
 
+net = torch.load('trained_model.pt')
+net.eval()
 
 
 #===========================================#
