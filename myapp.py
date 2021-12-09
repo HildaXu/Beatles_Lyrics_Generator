@@ -21,10 +21,12 @@ with backgroud_image:
 
 header = st.container()
 
-desc = "Sorry, this website is still under construction, shome features may not work. :( \nCheck out the code [here](https://github.com/HildaXu/Beatles_Lyrics_Generator)!"
+desc = "Sorry, this website is still under construction, shome features may not work. :( "
+desc2 ="Check out the code [here](https://github.com/HildaXu/Beatles_Lyrics_Generator)!"
 with header:
 	st.title("Welcome to the Beatles Lyrics Generator!❤️✌️")
 	st.write(desc)
+	st.write(desc2)
 
 num_sentences = st.number_input('Number of words', min_value=1, max_value=50, value=5)
 user_input = st.text_input('Seed Text (can leave blank)')
