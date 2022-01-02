@@ -21,7 +21,7 @@ with backgroud_image:
 
 header = st.container()
 
-desc = "Sorry, this website is still under construction, shome features may not work. :( "
+desc = "Sorry, this website is still under construction, shome features may not work. ::( "
 desc2 ="Check out the code [here](https://github.com/HildaXu/Beatles_Lyrics_Generator)!"
 with header:
 	st.title("Welcome to the Beatles Lyrics Generator!❤️✌️")
