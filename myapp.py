@@ -1,6 +1,6 @@
 import streamlit as st
 import json
-import torch
+import pytorch
 from collections import Counter
 
 import generate_text
