@@ -3,7 +3,6 @@ import json
 
 from collections import Counter
 
-import generate_text
 
 #===========================================#
 #        Loads Model and word_to_id         #
